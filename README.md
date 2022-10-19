@@ -38,6 +38,7 @@ A curated list of papers, methods and libraries implemented in Python for genera
 * [PSA-GAN](https://arxiv.org/pdf/2108.00981.pdf) - A GAN to generate long time series samples of high quality using progressive growing of GANs and self-attention.
 * [SigWGAN](https://dl.acm.org/doi/pdf/10.1145/3490354.3494393) - Sig-Wasserstein GANs for Time Series Generation.
 * [ABC-GAN](10.1109/TII.2022.3204282) - An Attention Based Cycle-Consistent GAN for IoT Data Generation (temporal features).
+* [CGAN-MTS](https://link.springer.com/article/10.1007/s00521-022-07361-8) - CGAN-based synthetic multivariate time-series generation: a solution to data scarcity in solar flare forecasting.
 
 ## Libraries
 
